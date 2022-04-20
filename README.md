@@ -1,6 +1,6 @@
 # Web Accessibility Test
 
-Scripts for auto test Web Accessbility with Lighthouse
+Scripts for auto test Web Accessibility with Lighthouse
 
 ## Setup
 
